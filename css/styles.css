@@ -89,7 +89,6 @@ body {
 .main-left p {
     font-size: calc(var(--font-size) - .15rem);
     font-weight: var(--font-weight-sm);
-    color: var(--grayish-blue);
 }
 
 .main-right {
