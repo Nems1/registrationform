@@ -10,4 +10,4 @@
 
 ## Live website
  
-  You can view the live site [here](https://github.com/Nems1/registrationform.git)
+  You can view the live site [here](https://github.com/Nems1/registrationform.git/)
